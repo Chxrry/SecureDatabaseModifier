@@ -1,0 +1,11 @@
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\bin\Debug\SecureDatabaseModifier.exe.config
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\bin\Debug\SecureDatabaseModifier.exe
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\bin\Debug\SecureDatabaseModifier.pdb
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.csprojResolveAssemblyReference.cache
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.Form1.resources
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.Properties.Resources.resources
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.csproj.GenerateResource.Cache
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.exe
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.pdb
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.Main.resources
+D:\Study\Project\SecureDatabaseModifier\SecureDatabaseModifier\obj\Debug\SecureDatabaseModifier.csproj.ResolveComReference.cache
